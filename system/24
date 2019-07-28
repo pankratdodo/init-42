@@ -1,0 +1,3 @@
+dpkg -l
+#-l is list of all
+#24. Find the command that list all packages

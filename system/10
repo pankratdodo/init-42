@@ -1,0 +1,4 @@
+fdisk -l
+#fdisk check all manipulate with partition table
+# -l just for the specified devices
+#10. Name the command that lists the partition tables of drives?

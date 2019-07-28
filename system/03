@@ -1,0 +1,6 @@
+#change file etc/hostname
+#but you can finde old name at file etc/hosts
+#change it too
+/etc/hostname
+/etc/hosts
+#What file has to be modified to make it permanent?

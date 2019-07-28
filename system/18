@@ -1,0 +1,3 @@
+service ssh stop
+#check "service ssh status"
+#18. Find the command that kills ssh service

@@ -1,0 +1,5 @@
+tail -f /var/log/syslog &
+#add & at the end
+#command in background
+#command "job" can check it
+#14. Run the ‘tail -f /var/log/syslog‘ command in background

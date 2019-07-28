@@ -1,0 +1,3 @@
+service ssh status | grep 'Main PID' | awk '{print$3}'
+#404
+#7. Figure out the PID of the SSHD service.

@@ -1,0 +1,3 @@
+#use
+ssh newuser@127.0.0.1
+#23. Explain how connect yourself as new user. (With graphic session and ssh session)

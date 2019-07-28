@@ -1,0 +1,2 @@
+cat /etc/group
+#21. List all real users on the VM

@@ -1,0 +1,5 @@
+at-k5.21-school.ru.
+#find your IP in 12 and using nslookup whityour output
+#grep "name" | awk '{print $4}'
+#my adress is "at-k5.21-school.ru." in this way
+# Thanks to the previous question and the reverse DNS find the name of your host

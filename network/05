@@ -1,0 +1,3 @@
+host -a slash16.org | tail -c 24 | head -c 12
+#dig slash16.org | grep 'SERVER' | cut -d " " -f3 | head -c 12
+#Identify the IP address of the DNS that responds to the following url: slash16.org

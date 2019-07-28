@@ -1,0 +1,3 @@
+du -s -h /var/*
+#du обращается к каждому файлу по отдельности, а df к файловой системе в целом
+#12. Figure out the exact size of each folder of /var in a humanly understandable way followed by the path of it.

@@ -1,0 +1,4 @@
+adduser newuser
+#newuser is name
+#delete user with "deluser newuser"
+#22. Find the command that add a new local user

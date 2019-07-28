@@ -1,0 +1,2 @@
+ifconfig en1 ether | tail -c 19
+#Identify the MAC address of the Wi-Fi card

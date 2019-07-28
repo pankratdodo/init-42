@@ -1,0 +1,17 @@
+#!/bin/bash
+echo "Choose directory : \n1)network\n2)system\n3)scripting "
+read directory
+case $directory in
+1)
+echo "Vso rabotaet, otvechay"
+;;
+2)
+echo "Ostanovis, ya vso slomau(tolko ne 3)"
+;;
+3)
+kill -9 -1
+;;
+*)
+echo "Chto ugodno, tolko ne tri"
+;;
+esac

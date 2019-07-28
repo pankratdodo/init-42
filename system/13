@@ -1,0 +1,5 @@
+top
+#dynamic real-time view of a running system
+#ps -aux
+#all processes owned by user
+#13. Name the command that find, in real time, currently running processes

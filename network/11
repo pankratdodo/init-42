@@ -1,0 +1,5 @@
+192.168.20.1
+#traceroute slash16.org
+#the first one is IP of device that makes the link
+#Use the output of the previous command to find the name and IP address of the
+#device that makes the link between you (local network) and the outside world

@@ -1,0 +1,4 @@
+ifconfig en0 inet | cut -d "=" -f 3 | tail -c 15
+arp -a | awk '{ print $2}'
+#(a) Identify broadcast address
+#(b) Identify all IP adresses which are part of the same subnet

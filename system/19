@@ -1,0 +1,4 @@
+systemctl
+#its daemon service
+#for ex "systemctl restart ssh"
+#19. List all services which are started at boot time and name this kind of services

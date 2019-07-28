@@ -1,0 +1,5 @@
+systemctl status ssh
+#status one of service
+#or
+#servis ssh status
+# Name the command that determines the state of the SSH service.

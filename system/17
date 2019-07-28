@@ -1,0 +1,3 @@
+ssh alina@127.0.0.1
+#ssh <username>@<IP>
+#Find the command that allows you to connect via ssh on the VM.

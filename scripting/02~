@@ -1,0 +1,11 @@
+#!/bin/bash
+name = cat /etc/passwd | grep lox
+if ["$name" - "$NULL"]; then
+    if ["$(pgrep -u lox)" !- "$NULL"]; then
+        su kill $(pgrep -u lox) lox
+        userdel lox
+    fi
+    echo "vso okey"
+else
+    echo "usera net"
+fi

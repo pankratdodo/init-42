@@ -1,0 +1,3 @@
+kill PID
+#PID of background commands process
+#15. Find the command that kills the background command’s process
